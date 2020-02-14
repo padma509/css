@@ -1,0 +1,140 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+}
+.search {
+    margin-right:40rem;
+    margin-top:2rem;
+    padding-left:4rem;
+    
+    
+}
+.image {
+    float:right;
+    
+}
+
+.abc {
+    padding-right:8px;
+}
+.menu {
+    margin-top:10px;
+    margin-left:12rem;
+    padding-left:8rem;
+}
+    
+#abc {
+    margin-left:5rem;
+}
+#xyz {
+    margin-left:5rem;
+}
+#uuu {
+    margin-left:5rem;
+}
+.basket {
+    text-align:center;
+    color:skyblue;
+    margin-right:5rem;
+    
+}
+.onions {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+
+}
+.width {
+    width:10rem;
+}
+.potatos {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    margin-left: 5px;
+}
+#main-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.tamotos {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    margin-left: 5px;
+}
+.carrot {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    margin-left: 5px;
+}
+.capsicum {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    margin-left: 5px;
+}
+.cucumber {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    
+}
+#main-container2{
+    margin-top:2rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.beetroot {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    margin-left: 5px;
+}
+.beetroot {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    margin-left: 5px;
+}
+.palak {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    margin-left: 5px;
+}
+.mushrooms {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    margin-left: 5px;
+}
+.dondakayi {
+    border:1px solid gray;
+    width:20%;
+    text-align: center;
+    margin-left: 5px;
+}
+
+
+
+#footer {
+       font-family:Georgia, 'Times New Roman', Times, serif;
+       color:green;
+       margin-left:3rem;
+       margin-top: 3rem;
+       display: flex;
+       justify-content: space-around;
+      
+}
+.footer>p {
+    color:gray;
+}
+
+.imageapp {
+    margin-top:2px;
+}
+
